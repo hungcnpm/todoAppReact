@@ -1,0 +1,17 @@
+.list{
+    color:cornsilk;
+    width: 300px;
+    background-color: darkkhaki;
+    height: 50px;
+    margin: 20px auto;
+    border-radius: 5px;;
+}
+.list p{
+    padding: 10px;
+    position: relative;
+} 
+.list p span{
+    position: absolute;
+    right: 10px;
+    cursor: pointer;
+}
